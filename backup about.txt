@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Donate - Nepeta</title>
+    <meta property="og:title" content="Donate to Nepeta" />
+    <meta property="og:description" content="Support my work!" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://nepeta.me/donate" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <div class="card">
+      <div class="row">
+        <h1>Nepeta</h1>
+      </div>
+      <div class="row content">
+        <h2>Donate</h2>
+        <p>
+          Hello everyone, I'm Nepeta. I've developed StackXI, Launchtron and ported c0ldra1n's Mitsuha to iOS 11 (MitsuhaXI). This page was created because of people asking me for a way to support me, so here it is. For privacy reasons I don't use PayPal, WeChat, Apple Pay or any similar proprietary money transfer solutions.
+        </p>
+        <p>
+          To support me you can:
+          <ul>
+            <li><a href="https://twitter.com/NepetaDev"><strong>follow me on Twitter if you haven't already</strong></a>,</li>
+            <li>contribute code to any of my <a href="https://github.com/Nepeta">open source projects</a>,</li>
+            <li>get me a beer if we meet IRL,</li>
+            <!-- <li>get me a test device (I need an iPhone 6S or SE, these two seem to cause most issues),</li> -->
+            <!-- <li>buy me a <a href="https://bad-dragon.com/gift-cards">Bad Dragon gift card</a> (because why not ;-),</li> not anymore, thanks everyone! -->
+            <li>let your friends know about my projects,</li>
+            <li>tweet some kind words my way,</li>
+            <li>donate Bitcoin, Bitcoin Cash or Ethereum - contact me on Twitter.</li>
+          </ul>
+        </p>
+        <p>
+          <strong>Bitcoin:</strong> <a href="bitcoin:1FcoJUKSWPBo2Y8WnzcNgnfYpVWAybTEwk">1FcoJUKSWPBo2Y8WnzcNgnfYpVWAybTEwk</a><br>
+          <strong>Ethereum:</strong> 0x3fabC34288A01cd5d800b86213eF7e24a6d444a4
+        </p>
+        <p>
+          If you really love the idea itself that powers MitsuhaXI please <a href="https://www.paypal.me/c0ldra1n">donate to c0ldra1n&nbsp;(PayPal)</a> <strong>[not my PayPal address!]</strong>.
+        </p>
+        <p>
+          Thank you.
+        </p>
+      </div>
+      <div class="row buttons">
+        <a href="https://nepeta.me/">Back</a>
+        <a href="https://repo.nepeta.me/">Repo</a>
+      </div>
+    </div>
+  </body>
+</html>
