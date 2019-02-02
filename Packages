@@ -1,0 +1,13 @@
+Package: com.sxuiii.mlady
+Version: 1.0
+Section: Themes
+Maintainer: sxuiii <sxuiii@outlook.com>
+Depends: anemone
+Architecture: iphoneos-arm
+Filename: .//debs/mlady.deb
+Size: 2377362
+MD5sum: 4FAF339E6A4810E7FAAD690350C82E3A
+Description: An example package for testing out our personal Cydia repository
+Name: M'LADY
+Author: sxuiii <sxuiii@outlook.com>
+Depiction: https://sxuiii.github.io/depictions/com.sxuiii.mlady
