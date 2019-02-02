@@ -2,7 +2,7 @@ Package: com.sxuiii.mlady
 Version: 1.0
 Section: Themes
 Maintainer: sxuiii <sxuiii@outlook.com>
-Depends: anemone
+Depends:
 Architecture: iphoneos-arm
 Filename: .//debs/m_lady.deb
 Size: 2377362
