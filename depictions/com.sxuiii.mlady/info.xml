@@ -1,7 +1,7 @@
 <packageInfo>
-    <bundleId>ch.mdaus.exampletweak</bundleId>
-    <name>Example Tweak</name>
-    <version>0.0.2</version>
+    <bundleId>com.sxuiii.mlady</bundleId>
+    <name>mladyk</name>
+    <version>1.0</version>
     <descriptions>
         <description>
             An example package for testing out our personal Cydia repository
