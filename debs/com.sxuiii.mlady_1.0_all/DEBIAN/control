@@ -1,0 +1,10 @@
+Package: com.sxuiii.mlady
+Name: M'Lady
+Architecture: all
+Depends: firmware (>=10.0)
+Description: NSFW Theme made by /u/teen)_dad on reddit
+Maintainer: sxuiii <sxuiii@outlook.com>
+Author: sxuiii <sxuiii@Outlook.com>
+Section: Themes
+Depiction: https://sxuiii.github.io/depictions/?p=com.sxuiii.mlady
+Version: 1.0
