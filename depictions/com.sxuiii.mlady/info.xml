@@ -11,30 +11,15 @@
 		<package>iconbundles</package>
 	</dependencies>
 	<shortDescription>NSFW Theme made by /u/teen_dad on reddit</shortDescription>
-	<descriptionlist>
-		<description>NSFW Theme made by /u/teen_dad on reddit 1</description>
-		<description>NSFW Theme made by /u/teen_dad on reddit 2</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
-	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
 			<image>IMG_1.png</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
 			<image>IMG_2.png</image>
 		</screenshot>		
 	</screenshots>
-	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
-	</changelog>
+
 	<links>
 		<link>
 			<name>/r/jailbreak</name>
