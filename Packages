@@ -1,0 +1,15 @@
+Package: com.sxuiii.mlady
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: sxuiii <sxuiii@outlook.com.com>
+Filename: ./debfiles/com.sxuiii.mlady.deb
+Size: 4044992
+MD5sum: 4b07e8616d0a06274273d781effa0c1c
+SHA1: 71493ad079017af076b511cb0e6d84a474444d0a
+SHA256: fa86aa9aaa7b2dcf63a58651d8a8c76eeade9842e585e5212a10508af922c7b0
+SHA512: 4366da10f1abb257a05545c5bd4993724192909ff1240545fa6736c71804572cbf4b46c629c210e06e2c3055ee5096306ea2c5199b344328898118af332a5744
+Description: NSFW Theme
+Name: M'Lady
+Author: sxuiii <sxuiii@outlook.com.com>
+
