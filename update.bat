@@ -1,1 +1,0 @@
-bash -c "cd /mnt/sxuiii.github.io; ./update.sh"

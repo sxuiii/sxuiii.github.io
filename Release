@@ -1,11 +1,8 @@
 Origin: sxuiii's Repo
-Label: sxuiii
+Label: sxuiii's Repo
 Suite: stable
 Version: 1.0
-Codename: sxuiii
-Architecture: iphoneos-arm
+Codename: ios
+Architectures: iphoneos-arm
 Components: main
-Description: sxuiii's Tweaks
-MD5Sum:
- f6cc367353f166f17fffd8ec1c4a33ed 580 Packages
- 2060548d4acd956fbb1f3db4e09026be 433 Packages.bz2
+Description: sxuiii's Repo
