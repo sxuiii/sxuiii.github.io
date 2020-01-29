@@ -7,7 +7,7 @@ function iOSVersion() {
 }
 var theme = localStorage.Theme;
 if(!theme) {
-	theme = "ios7dark.css";
+	theme = "ios7.min.css";
 	localStorage.setItem('Theme', theme);
 }
 $('head').append('<link rel="stylesheet" href="'+theme+'.css?_=d" type="text/css" />');
