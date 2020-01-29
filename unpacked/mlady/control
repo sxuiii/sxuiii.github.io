@@ -1,5 +1,4 @@
-Package: mlady
-Filename: ./package/mlady/mlady.deb
+Package: com.sxuiii.mlady
 Name: M'Lady
 Author: sxuiii
 Version: 1.0
@@ -7,4 +6,4 @@ Architecture: iphoneos-arm
 Description: NSFW Theme
 Maintainer: sxuiii
 Section: Themes
-Depiction: https://sxuiii.github.io/package/mlady/SelioDepiction.json
+SileoDepiction: https://sxuiii.github.io/package/mlady/SelioDepiction.json
