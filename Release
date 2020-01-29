@@ -1,11 +1,11 @@
-Origin: julioverne's Repo
-Label: julioverne
+Origin: sxuiii's Repo
+Label: sxuiii
 Suite: stable
 Version: 1.0
-Codename: julioverne
+Codename: sxuiii
 Architecture: iphoneos-arm
 Components: main
-Description: julioverne's Tweaks
+Description: sxuiii's Tweaks
 MD5Sum:
- 7a4e19919901319622204a7099bbf0c4 1304 Packages
- 4ea3baf8062f9edd6acecbf1ca0bc7b7 772 Packages.bz2
+ f6cc367353f166f17fffd8ec1c4a33ed 580 Packages
+ 2060548d4acd956fbb1f3db4e09026be 433 Packages.bz2
