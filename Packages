@@ -1,3 +1,20 @@
+Package: com.julioverne.lockdroiddonuts
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Themes
+Maintainer: Julio
+Filename: ./debfiles/com.julioverne.lockdroiddonuts_0.0~beta1_iphoneos-arm.deb
+Size: 178432
+MD5sum: ef34fa0ab5fec723693676eeefcba969
+SHA1: c6292585f71d5992b87b9076f67518cc90138c55
+SHA256: 7da5c1caab079c51e3a13c6439d9e45f0e203f14fca8d65b388dcb3949279f19
+SHA512: c8e13def11cc8b4a29aaeb98bf032a67993dff14824fac9261f28fbde28485de5b1a65a608fded4604474233e63b22bdab393b150fe0392760c01ed911401483
+Homepage: http://twitter.com/ijulioverne
+Description: Donuts Theme For LockDroid
+Name: Donuts LockDroid
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.lockdroiddonuts
+
 Package: com.sxuiii.mlady
 Architecture: iphoneos-arm
 Version: 1.0
