@@ -1,0 +1,10 @@
+Package: com.julioverne.lockdroiddonuts
+Name: Donuts LockDroid
+Author: julioverne
+Version: 0.0~beta1
+Architecture: iphoneos-arm
+Description: Donuts Theme For LockDroid
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Themes
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.lockdroiddonuts
