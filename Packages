@@ -22,11 +22,12 @@ Section: Themes
 Maintainer: sxuiii <sxuiii@outlook.com.com>
 Filename: ./debfiles/com.sxuiii.mlady.deb
 Size: 4044992
-MD5sum: a1b04c54aef4be00dac390fd1fe37e36
-SHA1: 5850e31e6f1743b6305435a2f10ce12c855a9ef4
-SHA256: 4720b18a8fa83a8e0579c085a0d57fe8f7a1dd66cf48718adc39182916e563b6
-SHA512: 9e85e3a1430c0c8216f7ab4883af31b939d910a483dff215ab9a9eba17e211281b8c45170977d7f861ba0c049d5fa94b40d2506f63e87ad2255e0f0f619c29b4
-Description: http://sxuiii.github.io/description.html?id=com.sxuiii.mlady
+MD5sum: 4835bcd8f6646613d28bf96f001ae2fa
+SHA1: 3e000715ebef729fddfe4f55f043f86e8a4aa5ef
+SHA256: 814a5562e35bcda12c464910f95da55cf4dba4b4ac923954a148967d093f5915
+SHA512: e3a0791a3f175524e0baf1c3b942cecc96d8eb13f56fa65f321b6f48381e61796b6a7e3a187b565670b19f50ad571ca7b8a5c9db1f7017c5639b4ab212665f8b
+Description: NSFW Theme
 Name: M'Lady
 Author: sxuiii <sxuiii@outlook.com.com>
+Depiction: http://sxuiii.github.io/description.html?id=com.sxuiii.mlady
 
